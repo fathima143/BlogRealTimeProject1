@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8612e88d-1019-4223-bb86-ee190c1f8e56" name="Changes" comment="first commit" />
+    <list default="true" id="8612e88d-1019-4223-bb86-ee190c1f8e56" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +101,7 @@
       <workItem from="1671004702254" duration="287000" />
       <workItem from="1671010387314" duration="686000" />
       <workItem from="1671020875002" duration="75000" />
-      <workItem from="1671088951333" duration="2418000" />
+      <workItem from="1671088951333" duration="2637000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1671091745816</created>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671092013427</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1671092157884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671092157884</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
