@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8612e88d-1019-4223-bb86-ee190c1f8e56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BlogRealTimeProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/migrations/0002_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/migrations/0003_post_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/templatetags/BlogApp_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogApp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogRealTimeProject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogRealTimeProject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogRealTimeProject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogRealTimeProject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogRealTimeProject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Blogapp/PAGINATION.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Blogapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Blogapp/latest_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Blogapp/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Blogapp/post_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Blogapp/sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Blogapp/sharebymail.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IdAw9NvPAdz7Amh1NvjgrH7Ck4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/PycharmProjects&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\BlogRealTimeProject" />
+      <recent name="C:\Users\admin\PycharmProjects\BlogRealTimeProject\templates\Blogapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BlogRealTimeProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="BlogRealTimeProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="BlogRealTimeProject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8612e88d-1019-4223-bb86-ee190c1f8e56" name="Changes" comment="" />
+      <created>1670501324638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670501324638</updated>
+      <workItem from="1670501333936" duration="6519000" />
+      <workItem from="1670514235081" duration="3648000" />
+      <workItem from="1670569326267" duration="3677000" />
+      <workItem from="1670739472400" duration="2610000" />
+      <workItem from="1670825516710" duration="10516000" />
+      <workItem from="1670841191144" duration="2220000" />
+      <workItem from="1670850469110" duration="5229000" />
+      <workItem from="1670912353667" duration="10580000" />
+      <workItem from="1671000027693" duration="773000" />
+      <workItem from="1671004702254" duration="287000" />
+      <workItem from="1671010387314" duration="686000" />
+      <workItem from="1671020875002" duration="75000" />
+      <workItem from="1671088951333" duration="1898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/templates/Blogapp/post_list.html</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
